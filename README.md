@@ -15,6 +15,6 @@ In MySQL, the preferred data type for image storage is BLOB. However, there are 
 With that in mind, here's how a table containing an image can look like:
 <br>
 ![Image in Database](https://i.ibb.co/JrPFN6J/table-def.jpg "Image in Database")
-
+<br>
 
 In our railway scenario, we would like to store the image of the passenger.
