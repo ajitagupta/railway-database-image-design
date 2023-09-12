@@ -7,7 +7,7 @@ A Database Management System (DBMS) is a software system that is designed to man
 MySQL, Oracle, etc. are popular commercial DBMS used in different applications.
 
 ## Storing an Image
-All data is stored as its own datatype in a database. In the case of a name we use the datatype varchar. In the case of an image we use the datatype BLOB, which stands for Binary Large Object. BLOB is a collection / chunk of binary data stored in the form of a single entity in a database system. BLOBs primarily hold images, videos, sound, and other multimedia objects.
+All data is stored as its own datatype in a database. In the case of a name we use the datatype varchar. In the case of an image we use the datatype BLOB, which stands for Binary Large Object. BLOB is a collection / chunk of binary data stored in the form of a single entity in a database system. BLOB's primarily hold images, videos, sound, and other multimedia objects.
 
 ## Image Design
 In MySQL, there are actually three flavors of BLOB. The one you choose depends on the size of the images that you will be storing. If in doubt, go to the larger capacity BLOB. Here are the three BLOB types:
