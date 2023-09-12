@@ -6,7 +6,7 @@ A Database Management System (DBMS) is a software system that is designed to man
 
 MySQL, Oracle, etc. are popular commercial DBMS used in different applications.
 
-## Designing The Table with an Image
+## Designing The Table with Image
 In MySQL, the preferred data type for image storage is BLOB. However, there are actually three flavors of BLOB. The one you choose depends on the size of the images that you will be storing. If in doubt, go to the larger capacity BLOB. Here are the three BLOB types:
 
 * BLOB: Can handle up to 65,535 bytes of data (65 KB).
@@ -14,5 +14,8 @@ In MySQL, the preferred data type for image storage is BLOB. However, there are 
 * LONGBLOB: Stores up to 4,294,967,295 bytes of data (4.29 GB).
 <br>
 With that in mind, here's how a table containing an image can look like:
-
+<br>
 ![Image in Database](https://i.ibb.co/JrPFN6J/table-def.jpg "Image in Database")
+<br>
+
+In our railway scenario, we would like to store the image of the passenger.
