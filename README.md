@@ -24,5 +24,6 @@ This is SQL code for creating the image table in the database with different ima
 Here is a screenshot of the table in the database:
 
 ![Image](https://i.ibb.co/JrPFN6J/table-def.jpg)
-<br>
-In our railway scenario, we would like to store the image of the passenger.
+
+## Criminology action
+In our railway scenario, we would like to store the image of the passenger. In case of an alarm one can quickly identify the crook by sharing all his data with public authority like the police. With passenger photo, the police can ask the general public for help.
