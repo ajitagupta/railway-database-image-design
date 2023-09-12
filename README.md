@@ -19,7 +19,8 @@ image_name varchar
 image blob
 );
 ```
-<br>
+
+This is SQL code for creating the image table in the database with different image attributes as columns.
 Here is a screenshot of the table in the database:
 ![Image](https://i.ibb.co/JrPFN6J/table-def.jpg)
 <br>
