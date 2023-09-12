@@ -23,7 +23,7 @@ image blob
 );
 ```
 
-This is SQL code for creating the images table in the database with different image types as columns.
+This is SQL code for creating the images table in the database with different image types as columns. You can do it like this or store the image in the table containing passengers (database design).
 Here is a screenshot of the table in the database:
 
 ![Image](https://i.ibb.co/JrPFN6J/table-def.jpg)
