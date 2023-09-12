@@ -3,3 +3,5 @@ A database is key to every software. Database is a collection of interrelated da
 
 ## Database Management System
 A Database Management System (DBMS) is a software system that is designed to manage and organize data in a structured manner. It allows users to create, modify, and query a database, as well as manage the security and access controls for that database. DBMS can be classified into two types: Relational Database Management System (RDBMS) and Non-Relational Database Management System (NoSQL or Non-SQL). In RDBMS the data is organized in the form of tables and each table has a set of rows and columns. The data is related to each other through primary and foreign keys.
+
+MySQL, Oracle, etc. are popular commercial DBMS used in different applications.
