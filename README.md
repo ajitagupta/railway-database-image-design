@@ -13,7 +13,6 @@ In MySQL, the preferred data type for image storage is BLOB. However, there are 
 * LONGBLOB: Stores up to 4,294,967,295 bytes of data (4.29 GB).
 <br>
 With that in mind, here's how a table containing an image can look like:
-<br>
 ![Image in Database](https://i.ibb.co/JrPFN6J/table-def.jpg "Image in Database")
 
 
