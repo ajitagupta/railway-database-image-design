@@ -12,8 +12,6 @@ In MySQL, the preferred data type for image storage is BLOB. However, there are 
 * MEDIUMBLOB: The maximum length supported is 16,777,215 bytes (16.7 MB).
 * LONGBLOB: Stores up to 4,294,967,295 bytes of data (4.29 GB).
 <br>
-With that in mind, here's how a table containing an image can look like:
-<br>
 ![Image](https://i.ibb.co/JrPFN6J/table-def.jpg)
 <br>
 
