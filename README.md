@@ -1,4 +1,7 @@
 # Image Design of a Railway Database Management System
+![Static Badge](https://img.shields.io/badge/Databases-Tutorial-blue) ![Static Badge](https://img.shields.io/badge/Software%20Design-Tutorial-green)
+
+
 A database is key to every software. Database is a collection of interrelated data which helps in the efficient retrieval, insertion, and deletion of data from the database and organizes the data in the form of tables, views, schemas, reports, etc. For example, a railway database organizes the data about trains, passengers, stations, tickets, schedule, routes, admin staff, etc. which helps in the efficient retrieval, insertion, and deletion of data from it.
 
 ## Database Management System
