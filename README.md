@@ -32,4 +32,4 @@ Here is a screenshot of the table in the database:
 ![Image](https://i.ibb.co/JrPFN6J/table-def.jpg)
 
 ## Criminology Action
-In our railway scenario, we would like to store the image of the passenger. In case of an alarm one can quickly identify the perpetrator with a match in the national database. Upon identification the investigator must share all his data with a public authority like the police. With passenger photo, the police can ask the general public for help.
+In our railway scenario, we would like to store the image of the passenger. In case of an alarm one can quickly identify the perpetrator with a match in the national database. Upon identification the investigator must share all his data with a public authority like the police. With passenger photograph, the police can ask the general public for help.
