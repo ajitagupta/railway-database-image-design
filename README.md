@@ -12,7 +12,7 @@ MySQL, Oracle, etc. are popular commercial DBMS used in different applications.
 ## Storing an Image
 All data is stored as its own datatype in a database. In the case of a name we use the datatype varchar. In the case of an image we use the datatype BLOB, which stands for Binary Large Object. BLOB is a collection / chunk of binary data stored in the form of a single entity in a database system. BLOB's primarily hold images, videos, sound, and other multimedia objects.
 
-## Image Design
+## Data Structures and Algorithms
 In MySQL, there are actually three flavors of BLOB. The one you choose depends on the size of the images that you will be storing. If in doubt, go to the larger capacity BLOB. Here are the three BLOB types:
 * BLOB: Can handle up to 65,535 bytes of data (65 KB).
 * MEDIUMBLOB: The maximum length supported is 16,777,215 bytes (16.7 MB).
