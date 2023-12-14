@@ -29,7 +29,7 @@ image blob
 This is SQL code for creating the images table in the database with different image types as columns. You can do it like this or store the image in the table containing passengers.
 Here is a screenshot of the table in the database:
 
-![Image](https://i.ibb.co/JrPFN6J/table-def.jpg)
+![Image](https://i.ibb.co/Zf82Q13/table-def.jpg)
 
 ## Criminology Action
 In our railway scenario, we would like to store the image of the passenger. In case of an alarm one can quickly identify the perpetrator with a match in the national database. Upon identification the investigator must share all his data with a public authority like the police. With passenger photograph, the police can ask the general public for help.
